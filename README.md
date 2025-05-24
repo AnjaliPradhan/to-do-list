@@ -65,11 +65,3 @@ to-do list
 ├── index.html          # Main HTML file
 ├── style.css           # CSS for styling the application
 └── script.js           # JavaScript for all interactive functionality
-
-## Future Enhancements (Possible Ideas)
-
-* Due dates and reminders.
-* Prioritization levels for tasks.
-* User accounts and synchronization for multi-device access.
-* Drag-and-drop reordering of tasks.
-* Sub-tasks or nested tasks.
